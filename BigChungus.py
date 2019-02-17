@@ -247,4 +247,4 @@ def runGUI():
 if __name__=='__main__':
     p0 = Process(target=runGUI)
     p0.start()
-    client.run("NTQ0NjIxNjE3NzUwNDc0NzUy.D0NzAw.l90CARCxNBX-wZmNLnY7bbuhCEA")
+    client.run("<bot_token_goes_here>")
