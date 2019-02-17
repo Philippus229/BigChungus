@@ -5,6 +5,7 @@ A garbage Discord bot for sending random files
 Create a Discord bot that can read, and send messages with attachments on https://discordapp.com/developers, add it to a server and replace the "<bot_token_goes_here>" at the bottom of the BigChungus Python script with the bot's token. Then start the bot and type "!here" in the channel you want the bot to send messages in. The commands are:
 - !here: tells the bot in which channel to send messages in
 - !category:rating: makes the bot send a random file from the given category/-ies (you can enter multiple categories separated by semicolons) and rating(s) ("sfw", "nsfw" or "all")
+
 Then just put some files in the corresponding folders and you're good to go.
 
 ## Settings
